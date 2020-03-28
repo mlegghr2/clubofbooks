@@ -1,0 +1,38 @@
+body {
+    font-family: monospace;
+    background-color: rgb(180,180,180);
+}
+
+h1 {
+    font-size: 50px;
+    position: fixed;
+    left:40%; 
+    
+}
+
+h2{
+    background-color: darkcyan;
+    border: solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 15%;
+}
+
+p {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h3 {
+    margin-left: 10%;
+}
+
+img {
+    margin-left: 26%;
+}
+
+table {
+    border: solid;
+    margin-bottom: 50px;
+    margin-left: 20%;
+}
